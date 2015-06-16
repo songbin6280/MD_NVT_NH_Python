@@ -1,0 +1,16 @@
+#Lennard_jones paramters: sigma(angstrom) epsilon(kj/mol), cutoff (angstrom)
+3.40 0.997 8.5
+#duration of a time step (fs)
+5
+#total number of steps
+10
+#mass of atoms (g/mol)
+39.95
+#target temperature (K)
+120
+#Nose-Hoover thermostat damping constant tau (fs)
+100
+#freqency to output thermodynamic quantities (per n steps)
+1
+#frequency to output the trajectory
+1
